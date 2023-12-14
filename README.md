@@ -58,6 +58,9 @@ The dataset used in the Diamond Price Prediction Web App project is a collection
 - `y`: Diamond Y dimension.
 - `z`: Diamond Z dimension.
 
+![Diamond Anatomy](https://github.com/BahramJannesar/DiamondsMachineLearning/raw/master/Image/Anglo-DiamondAnatomy_03.jpg)
+
+
 ### Prerequisites 📋
 
 Before using this project, ensure you have the following prerequisites in place:
